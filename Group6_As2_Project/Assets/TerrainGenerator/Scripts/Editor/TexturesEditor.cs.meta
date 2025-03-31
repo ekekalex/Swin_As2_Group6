@@ -1,7 +1,11 @@
 fileFormatVersion: 2
-guid: 99c9720ab356a0642a771bea13969a05
-DefaultImporter:
+guid: cdd42f0c7ed8fd14db72452ec6ed2402
+MonoImporter:
   externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -10,5 +14,5 @@ AssetOrigin:
   productId: 140538
   packageName: Terrain Generator
   packageVersion: 1.0
-  assetPath: Assets/Scenes/SampleScene.unity
+  assetPath: Assets/TerrainGenerator/Scripts/Editor/TexturesEditor.cs
   uploadId: 310948
