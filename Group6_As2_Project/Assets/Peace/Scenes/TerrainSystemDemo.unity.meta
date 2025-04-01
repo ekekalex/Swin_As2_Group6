@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39312d5ea835ab54daca37f26c3f029a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191448
+  packageName: Peace - Terrain Generator
+  packageVersion: 0.4.1
+  assetPath: Assets/Peace/Scenes/TerrainSystemDemo.unity
+  uploadId: 426995

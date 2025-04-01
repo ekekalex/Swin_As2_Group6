@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e217ab1bdaac453985f4c7f9c7d3d066
+timeCreated: 1601936278
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191448
+  packageName: Peace - Terrain Generator
+  packageVersion: 0.4.1
+  assetPath: Assets/Peace/Core/Serialization.cs
+  uploadId: 426995

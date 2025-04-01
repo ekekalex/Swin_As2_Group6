@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a6916c67deda79c5cbee5c0dfd2cc469
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 191448
+  packageName: Peace - Terrain Generator
+  packageVersion: 0.4.1
+  assetPath: Assets/Peace/Scripts/RealTimeWorld.cs
+  uploadId: 426995
