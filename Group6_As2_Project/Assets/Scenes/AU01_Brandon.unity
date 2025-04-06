@@ -414,8 +414,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26110b3f10b40994481741d4574978ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  oneShotClip: {fileID: 0}
-  loopingClip: {fileID: 0}
+  oneShotClip: {fileID: 8300000, guid: a7825568a81275944a8dad5c9d263c73, type: 3}
+  loopingClip: {fileID: 8300000, guid: a7825568a81275944a8dad5c9d263c73, type: 3}
 --- !u!4 &1429337093
 Transform:
   m_ObjectHideFlags: 0
