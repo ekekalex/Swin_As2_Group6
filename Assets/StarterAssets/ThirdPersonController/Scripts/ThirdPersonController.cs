@@ -15,7 +15,10 @@ namespace StarterAssets
     public class ThirdPersonController : MonoBehaviour
     {
         [Header("Player")]
+<<<<<<< Updated upstream:Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs
 
+=======
+>>>>>>> Stashed changes:Group6_As2_Project/Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs
         [Tooltip("Move speed of the character in m/s")]
         public float MoveSpeed = 2.0f;
 
@@ -76,6 +79,7 @@ namespace StarterAssets
         [Tooltip("For locking the camera position on all axis")]
         public bool LockCameraPosition = false;
 
+<<<<<<< Updated upstream:Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs
         [Header("Custom Cooldowns & Animation")]
         [Tooltip("Cooldown time for special abilities")]
          public float AbilityCooldown = 2f;
@@ -84,6 +88,8 @@ namespace StarterAssets
          public float AnimationSpeedMultiplier = 1f;
  
 
+=======
+>>>>>>> Stashed changes:Group6_As2_Project/Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs
         // cinemachine
         private float _cinemachineTargetYaw;
         private float _cinemachineTargetPitch;
@@ -162,6 +168,7 @@ namespace StarterAssets
         }
 
         private void Update()
+<<<<<<< Updated upstream:Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs
        {
         _hasAnimator = TryGetComponent(out _animator);
 
@@ -177,6 +184,16 @@ namespace StarterAssets
         }
 
 
+=======
+        {
+            _hasAnimator = TryGetComponent(out _animator);
+
+            JumpAndGravity();
+            GroundedCheck();
+            Move();
+        }
+
+>>>>>>> Stashed changes:Group6_As2_Project/Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs
         private void LateUpdate()
         {
             CameraRotation();
